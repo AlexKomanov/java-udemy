@@ -1,7 +1,9 @@
-package variables;
+package variables.primitive;
 
 public class Variables {
     public static void main(String[] args) {
+
+        //Primitive variables - 8
         byte b = -128;
         short sh = 130;
         char c = 'e';

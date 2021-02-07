@@ -1,4 +1,4 @@
-package variables.homeWork;
+package variables.primitive.homeWork;
 
 public class HomeWork {
 
