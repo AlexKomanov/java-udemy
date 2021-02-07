@@ -49,7 +49,7 @@ public class HomeWork {
         System.out.println("number1 = " + number1);
         System.out.println("number2 = " + number2);
         System.out.println("number3 = " + number3);
-        System.out.println("number3 = " + number3);
+
 
 
     }
