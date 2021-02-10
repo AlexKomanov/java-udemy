@@ -1,10 +1,10 @@
-package part_3.collections.generics;
+package part_3.generics;
 
-import part_3.collections.generics.classes.BaseObject;
-import part_3.collections.generics.classes.ChildObject;
-import part_3.collections.generics.classes.User;
-import part_3.collections.generics.examples.Example1;
-import part_3.collections.generics.examples.Example2;
+import part_3.generics.classes.BaseObject;
+import part_3.generics.classes.ChildObject;
+import part_3.generics.classes.User;
+import part_3.generics.examples.Example1;
+import part_3.generics.examples.Example2;
 
 import java.util.ArrayList;
 import java.util.List;

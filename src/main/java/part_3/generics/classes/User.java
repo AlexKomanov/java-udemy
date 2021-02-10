@@ -1,4 +1,4 @@
-package part_3.collections.generics.classes;
+package part_3.generics.classes;
 
 public class User extends BaseObject{
 

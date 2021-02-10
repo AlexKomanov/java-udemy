@@ -1,4 +1,4 @@
-package part_3.collections.generics.examples;
+package part_3.generics.examples;
 
 public class Example2<T> {
 
